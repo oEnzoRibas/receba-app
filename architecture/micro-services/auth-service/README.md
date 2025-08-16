@@ -18,4 +18,3 @@
 - `@POST /auth/refresh-token` - Refresh expired token using refresh token
 - `@POST /auth/logout` - Ends user session
 - `@GET /auth/validate` - Validates JWT and returns user data
-
