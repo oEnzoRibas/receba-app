@@ -1,4 +1,4 @@
-name: Build LaTeX Document
+name: Build LaTeX SRS Doc
 
 on:
   pull_request:
@@ -26,3 +26,4 @@ jobs:
       with:
         name: PDF
         path: architecture/SRS/main.pdf
+
