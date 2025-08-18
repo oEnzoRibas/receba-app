@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: PDF
-        path: Latex_V/new/main.pdf
+        path: architecture\SRS\main.pdf
